@@ -1,1 +1,1 @@
-# Throat_Disease_Classification
+# Throat Disease Classification
