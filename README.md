@@ -1,1 +1,1 @@
-# Throat Disease Classification
+# Klasifikasi Penyakit Tenggorokan
