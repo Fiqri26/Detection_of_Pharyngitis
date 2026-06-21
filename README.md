@@ -1,1 +1,1 @@
-# Klasifikasi Penyakit Tenggorokan Menggunakan Pendekatan Multistage Dengan Kombinasi Fitur GLCM, LBP, dan HSV Color Moments Serta Soft Voting Ensemble Learning
+# Deteksi Faringitis pada Citra Tenggorokan Menggunakan Metode Soft Voting Ensemble dengan Kombinasi Fitur GLCM, LBP, dan HSV Color Moments
